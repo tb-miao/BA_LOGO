@@ -343,7 +343,7 @@ class lt {
             const t = URL.createObjectURL(e)
               , n = document.createElement("a");
             n.href = t,
-            n.download = `${this.textL}${this.textR}_ba-style@nulla.top.png`,
+            n.download = `${this.textL}${this.textR}_ba-style@tbmiao.dpdns.org`,
             n.click(),
             URL.revokeObjectURL(t)
         }
