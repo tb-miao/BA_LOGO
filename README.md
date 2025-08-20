@@ -9,6 +9,3 @@ From https://github.com/nulla2011/bluearchive-logo
 部署在web网站中则不需要运行`run.py`。
 
 其他说明同原项目。
-
-### Demo
-[GitHub-Page上部署的Demo](https://yujionako.github.io/BA_logo/)
